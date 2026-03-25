@@ -30,6 +30,7 @@ This project demonstrates:
 
 # Project Structure
 
+```
 typescript-task-manager/
 │
 ├── src/
@@ -44,5 +45,7 @@ typescript-task-manager/
 │
 ├── package.json
 └── README.md
+
+```
 
 ![App Screenshot](public/screenshot.png)
