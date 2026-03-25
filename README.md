@@ -52,7 +52,8 @@ typescript-task-manager/
 ![App Screenshot](public/Screenshot.png)
 
 ## Live Demo: 
-https://app.netlify.com/projects/vermillion-cat-0eed0f
+
+https://vermillion-cat-0eed0f.netlify.app/
 
 ## Author
 
