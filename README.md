@@ -48,4 +48,4 @@ typescript-task-manager/
 
 ```
 
-![App Screenshot](public/screenshot.png)
+![App Screenshot](./public/screenshot.png)
