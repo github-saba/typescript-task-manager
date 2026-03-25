@@ -28,7 +28,7 @@ This project demonstrates:
 - State management using hooks
 - Modern UI styling with TailwindCSS
 
-# Project Structure
+## Project Structure
 
 ```
 typescript-task-manager/
@@ -47,5 +47,10 @@ typescript-task-manager/
 └── README.md
 
 ```
+## Preview
 
 ![App Screenshot](public/Screenshot.png)
+
+## Author
+
+Gnanaparvathan Sabapathy
