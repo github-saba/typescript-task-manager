@@ -51,6 +51,9 @@ typescript-task-manager/
 
 ![App Screenshot](public/Screenshot.png)
 
+## Live Demo: 
+https://app.netlify.com/projects/vermillion-cat-0eed0f
+
 ## Author
 
 Gnanaparvathan Sabapathy
